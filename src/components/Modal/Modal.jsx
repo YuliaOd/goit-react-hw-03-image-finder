@@ -34,7 +34,7 @@ export class Modal extends Component {
                 <div className={css.modal}>
                     <img src={largeImageURL} alt={tags} />
                 </div>
-            </div>, modalRoot)
+            </div>, modalRoot);
     }
 }
 
