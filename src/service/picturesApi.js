@@ -1,4 +1,3 @@
-
 import axios from 'axios';
 
 export const fetchPhoto = async (searchQuery, page) => {
